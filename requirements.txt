@@ -1,6 +1,6 @@
 streamlit==1.39.0
 pandas==2.2.3
-streamlit==1.39.0
+matplotlib
 pandas==2.2.3
 imbalanced-learn
 scikit-learn
