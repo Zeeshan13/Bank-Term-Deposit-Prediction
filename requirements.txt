@@ -3,4 +3,9 @@ pandas==2.2.3
 imblearn
 sklearn
 numpy
-
+matplotlib
+seaborn
+scipy
+scikit-learn
+imblearn
+joblib
