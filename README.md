@@ -63,5 +63,5 @@ Several models were trained and evaluated:
 | Decision Tree             | 87.12%   | 45.71%    | 53.88% | 49.46%   |
 
 # App Interface
-An interactive Streamlit app [Link](https://bank-term-deposit-prediction-xc9ekobrkzyk544hxf4imp.streamlit.app/) users with a simple interface for inputting customer details and generating predictions about the likelihood of subscription. The app also displays model accuracy and feature importances.
+An interactive [Streamlit app link](https://bank-term-deposit-prediction-xc9ekobrkzyk544hxf4imp.streamlit.app/) users with a simple interface for inputting customer details and generating predictions about the likelihood of subscription. The app also displays model accuracy and feature importances.
 
