@@ -1,11 +1,6 @@
 streamlit==1.39.0
 pandas==2.2.3
-imblearn
-sklearn
-numpy
-matplotlib
-seaborn
-scipy
+streamlit==1.39.0
+pandas==2.2.3
+imbalanced-learn
 scikit-learn
-imblearn
-joblib
